@@ -1,4 +1,4 @@
-# Abyssal Battery Monitor (v2)
+# Abyssal Battery Monitor 
 
 Two small programs:
 
